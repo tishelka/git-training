@@ -1,0 +1,11 @@
+# Временные файлы редакторов и ОС
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Секреты и зависимости — их не отправляем в репозиторий
+.env
+.env.*
+!.env.example
+node_modules/
